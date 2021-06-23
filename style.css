@@ -1,0 +1,104 @@
+body{
+	padding: 50px;
+	font-family: 'Nothing You Could Do', cursive;
+	color: #83c488;
+
+}
+
+.container-1{
+	display: flex;
+}
+
+.container-1 div{
+	padding: 50px;
+	border: 1px solid silver;
+	height: 500px;
+	border-radius: 15px;
+	margin: 20px;
+}
+
+.header{
+	padding: 10px;
+	border: 1px solid silver;
+	height: 300px;
+	border-radius: 15px;
+	background: url(images/bg-10.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 50px;
+	text-align: center;
+}
+
+h1{
+	padding-top: 35px; 
+}
+
+.box-1{
+	flex: 1;
+	background: url(images/istockphoto-974079490-170667a.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	color: #ffffff;
+	padding-top: 35px; 
+}
+
+.box-2{
+	flex: 1;
+	background: url(images/photo-1530388525264-64f20502cfbb.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	padding-top: 35px; 
+}
+
+.box-3{
+	flex: 1;
+	background: url(images/photo-1463341909820-e7e0310dcf43.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	padding-top: 35px; 
+}
+
+
+.box-4{
+	flex: 1;
+	background: url(images/2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	padding-top: 35px; 
+}
+
+.box-5{
+	flex: 1;
+	background: url(images/dark-plant-background-2210x1473.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	padding-top: 35px; 
+}
+
+.box-6{
+	flex: 1;
+	background: url(images/photo-1565343429017-799fbd72933b.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	padding-top: 35px; 
+}
+
+p{
+	text-align: center;
+}
+
+video{
+	text-align: center;
+	padding-top: 50px;
+
+}
+.video_mp4{
+	width: 1200px;
+	height: 500px;
+}
